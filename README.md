@@ -26,7 +26,8 @@ FEATURES:
   
 - Update Status
 
-  screenshot
+
+ SCREENSHOT
 
 - Edit Task<img width="1276" height="372" alt="Screenshot 2026-09-28 183214" src="https://github.com/user-attachments/assets/9f3ae50a-5a1a-4e6f-9b86-402f067fc206" />
 <img width="1280" height="532" alt="Screenshot 2026-09-28 183143" src="https://github.com/user-attachments/assets/35ea43b6-c4dd-49a9-86b3-e62d7f91763d" />
